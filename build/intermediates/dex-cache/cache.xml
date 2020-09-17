@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.4.0_56105fbeb420615991d9d1e5849724fd0a8f05ca.jar" />
+    </item>
+    <item
+        jar="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_9d8dc6eab96c512b5cc1b0a9fca15d48705e5639.jar" />
+    </item>
+    <item
+        jar="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_2b2b06878d95bcc345b97a6b7a394cbbb96ef5ce.jar" />
+    </item>
+    <item
+        jar="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_dba906efe65ad10d993c710b2186e0c54a6bea2d.jar" />
+    </item>
+    <item
+        jar="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_ab519803d410c9cd7690fd52ba3e656f66213a6e.jar" />
+    </item>
+    <item
+        jar="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_4e093d47278724bd2a44fafe16dfdb68b1b10e76.jar" />
+    </item>
+    <item
+        jar="C:\Users\shubham\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.2.0\6be858a75633b1f0a2d24cad740db57775cb6871\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_d7ba7906ef5699f866a081d41fc801fdea69f2b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.4.0_106ad84a2bde32c7cfd66542c7c9aa4dcc5462f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_0b3f68b9700e2228fd8164a5c2d9065d37285610.jar" />
+    </item>
+    <item
+        jar="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_0a72ca1feb961cf8b3aafe0bffebe8766d78b73e.jar" />
+    </item>
+    <item
+        jar="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_73d3b84248173f45516a50b6ac43b6bb4992d0d3.jar" />
+    </item>
+    <item
+        jar="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_de7b77c84c816ccaa517d05eeb58fb9165b68b58.jar" />
+    </item>
+    <item
+        jar="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_175ed2605605de407c0754f1e5a93f502b40f3a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_ae76d792803c473312dbeecd13842e4a34ec293f.jar" />
+    </item>
+    <item
+        jar="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_a4e80632098a3b8b589a383af315d339544f6e2e.jar" />
+    </item>
+    <item
+        jar="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_a7a67f2f71bd3a3875af56e3927259f6709b03d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.4.0_260824ead531c683f481b1d4cb62d6438db6846f.jar" />
+    </item>
+    <item
+        jar="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_941ad74305da13aefca97c48acde72747abccd2c.jar" />
+    </item>
+    <item
+        jar="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_f2b0885875214891a38e4ecee49bae52cd8fa432.jar" />
+    </item>
+    <item
+        jar="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_6272d28560a4847c729375d1735f088995c9cdab.jar" />
+    </item>
+    <item
+        jar="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\shubham\Downloads\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.4.0_dbc223ebc522224a736daabc814f030d19f3d863.jar" />
+    </item>
+
+</items>
